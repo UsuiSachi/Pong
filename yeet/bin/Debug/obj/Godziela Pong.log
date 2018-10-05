@@ -1,0 +1,59 @@
+﻿  main.cpp
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.h(37): warning C4091: 'extern ': se ha omitido a la izquierda de 'Pong::Juego::Pantallas' cuando no hay ninguna variable declarada
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\main.cpp(4): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  creditos.cpp
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.h(37): warning C4091: 'extern ': se ha omitido a la izquierda de 'Pong::Juego::Pantallas' cuando no hay ninguna variable declarada
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\creditos.cpp(12): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\creditos.cpp(13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\creditos.cpp(14): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\creditos.cpp(15): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Juego.cpp
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.h(37): warning C4091: 'extern ': se ha omitido a la izquierda de 'Pong::Juego::Pantallas' cuando no hay ninguna variable declarada
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.cpp(14): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.cpp(15): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  juego_principal.cpp
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.h(37): warning C4091: 'extern ': se ha omitido a la izquierda de 'Pong::Juego::Pantallas' cuando no hay ninguna variable declarada
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego_principal.cpp(21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego_principal.cpp(123): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego_principal.cpp(132): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego_principal.cpp(151): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego_principal.cpp(177): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego_principal.cpp(178): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Juego_terminado.cpp
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.h(37): warning C4091: 'extern ': se ha omitido a la izquierda de 'Pong::Juego::Pantallas' cuando no hay ninguna variable declarada
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego_terminado.cpp(13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  logo.cpp
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.h(37): warning C4091: 'extern ': se ha omitido a la izquierda de 'Pong::Juego::Pantallas' cuando no hay ninguna variable declarada
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\logo.cpp(13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  menu.cpp
+c:\users\administrador\desktop\asteroidos\pong final (casi)\yeet\src\pantallas\juego.h(37): warning C4091: 'extern ': se ha omitido a la izquierda de 'Pong::Juego::Pantallas' cuando no hay ninguna variable declarada
+  Generando código...
+raylib.lib(core.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(core.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(shapes.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(shapes.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(text.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(text.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(textures.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(textures.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(utils.obj) : warning LNK4099: no se encontró PDB 'raylib.pdb' con 'raylib.lib(utils.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\raylib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(context.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(init.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(input.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(monitor.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(vulkan.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(window.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_init.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_joystick.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_monitor.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_time.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_thread.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(win32_window.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(wgl_context.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(egl_context.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+raylib.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB 'glfw_objlib.pdb' con 'raylib.lib(osmesa_context.obj)' o en 'C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\glfw_objlib.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Godziela Pong.vcxproj -> C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\bin\Debug\Godziela Pong.exe
+  C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\\Godziela Pong\resources\images\fc3140265a2503132726446643f92d4e.png
+  C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\\Godziela Pong\resources\images\Links -robados- prestados.txt
+  C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\\Godziela Pong\resources\images\SAD_DONG.png
+  C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\\Godziela Pong\resources\images\SAD_WALUIGI.png
+  C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\\Godziela Pong\resources\sound effects\Hit_Jugador.wav
+  C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\\Godziela Pong\resources\sound effects\Hit_PARED.wav
+  C:\Users\Administrador\Desktop\Asteroidos\Pong Final (casi)\yeet\\Godziela Pong\resources\sound effects\Puntuacion_Oponente.wav
+  7 archivo(s) copiado(s)
